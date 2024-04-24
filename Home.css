@@ -1,0 +1,77 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    
+    padding: 20px;
+  }
+  
+  .product-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .product-table th, .product-table td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  .product-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  .add-button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .add-button1 {
+    position: absolute;
+    top: 10px;
+    right: 10px; /* Position to the right */
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .add-button2 {
+    position: absolute;
+    top: 20px;
+    padding: 8px ;
+    width: 150px; 
+    height: 40px; 
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .container {
+    position: relative;
+  }
+  .input-box {
+    width: 300px; /* Set the desired width */
+    height: 40px; /* Set the desired height */
+    padding: 8px; /* Adjust padding for better appearance */
+    font-size: 16px; /* Optionally adjust the font size */
+  }
+  .nav-item mb-2{
+    color: white;
+    background-color: black;
+  }
+  
+
+
+*{
+    background-color: #212529; /* Dark background color */
+    color: #ffffff; /* Light text color */
+  }
+  
